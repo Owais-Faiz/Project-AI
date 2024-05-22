@@ -79,7 +79,7 @@ Implements the CSP solver with methods for enforcing node and arc consistency, o
 ## Contribution
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-For details refer to the PDF "AI Project" file.
+For details refer to the PDF "AI Crossword" file.
 
 ## Acknowledgments
 This project is based on the CS50 AI course by Harvard, specifically the Crossword project. For more information, visit the [CS50 AI 2024 course page](https://cs50.harvard.edu/ai/2024/projects/3/crossword/).
